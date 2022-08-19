@@ -1,0 +1,25 @@
+{
+  "name": "vue-vitepress",
+  "version": "1.0.0",
+  "description": "Vue-Vitepress",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LearnCodingEasy/Vue-Vitepress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LearnCodingEasy/Vue-Vitepress/issues"
+  },
+  "homepage": "https://github.com/LearnCodingEasy/Vue-Vitepress#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.8"
+  }
+}
